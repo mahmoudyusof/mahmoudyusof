@@ -1,4 +1,6 @@
-### Hi there 👋
+<a href="https://mahmoudyusof.github.io/" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmoudyusof&show_icons=true&theme=dark" />
+</a>
 
 <!--
 **mahmoudyusof/mahmoudyusof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
